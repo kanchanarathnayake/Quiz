@@ -1,0 +1,46 @@
+{
+  "question": [
+    "Q1. What is the keyword of python function?",
+    "Q2. What is the ASCII code of a",
+    "Q3. Select the Octal Number?",
+    "Q4. How many Layers in OSI Model?",
+    "Q5. How many inputs in Not Gate?"
+  ],
+  "answer": [
+    1,
+    2,
+    2,
+    3,
+    4
+      
+  ],
+  "options": [
+
+    ["def",
+      "while",
+      "if",
+      "else"
+    ],
+    ["1100011",
+      "1000001",
+      "1111000",
+      "1011011"
+    ],
+    ["91",
+      "23",
+      "69",
+      "78"
+    ],
+    ["3",
+      "5",
+      "7",
+      "8"
+    ],
+      ["5",
+      "2",
+      "4",
+      "1"
+    ]
+    
+  ]
+}
